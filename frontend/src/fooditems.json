@@ -1,0 +1,40 @@
+{
+    "foodItems": [
+      {
+        "id": 1,
+        "name": "Burger",
+        "description": "Delicious burger with all the fixings.",
+        "price": 10.99,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "name": "Pizza",
+        "description": "Tasty pizza with various toppings.",
+        "price": 12.99,
+        "image": "https://example.com/images/pizza.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Salad",
+        "description": "Healthy salad with fresh vegetables.",
+        "price": 7.99,
+        "image": "https://example.com/images/salad.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Pasta",
+        "description": "Delicious pasta with your choice of sauce.",
+        "price": 9.99,
+        "image": "https://example.com/images/pasta.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Sushi",
+        "description": "Fresh sushi rolls with various fillings.",
+        "price": 14.99,
+        "image": "https://example.com/images/sushi.jpg"
+      }
+    ]
+  }
+  
